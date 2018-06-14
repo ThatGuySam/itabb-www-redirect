@@ -1,2 +1,2 @@
 # Redirects from what the browser requests to what we serve
-/              https://www.isthereaburnban.com/
+/*   https://www.isthereaburnban.com/:splat   200
