@@ -1,4 +1,4 @@
 # Redirects from what the browser requests to what we serve
-/*   https://www.isthereaburnban.com/:splat   301
-https://isthereaburnban.com/*   https://www.isthereaburnban.com/:splat   301
-http://isthereaburnban.com/*   https://www.isthereaburnban.com/:splat   301
+/*   https://www.swipe.to/9283Rvc8b4znhj9GXZVXHf2n38hH   301
+https://church-sites.samcarlton.com/*   https://www.swipe.to/9283Rvc8b4znhj9GXZVXHf2n38hH   301
+http://church-sites.samcarlton.com/*   https://www.swipe.to/9283Rvc8b4znhj9GXZVXHf2n38hH   301
